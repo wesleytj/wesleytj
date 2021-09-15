@@ -4,7 +4,7 @@
 - 🌱 Estou estudando Angular e Java
 - 👯 Estou colaborando em um projeto freelancer, elaboração do site de loja especializada em baterias automotivas
 - 🤔 Estou em busca de designers para criação de layouts
-- 💬 Pergunt-me o que quiser
+- 💬 Pergunte-me o que quiser
 - ⚡  Fora a programação, adoro games e animes.
 
 <div>
@@ -19,4 +19,13 @@
   <img align="center" alt="Wess-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Wess-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Wess-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />  
+</div>
+  
+##
+  
+ <div>   
+  <a href="https://www.linkedin.com/in/wesley-jacques" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://github.com/wesleytj" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>                                                                                        
+   <a href="mailto:wesleyjacques@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5551995291593&text=Opa%2C%20como%20posso%20ajudar%3F"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
