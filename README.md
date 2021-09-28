@@ -2,15 +2,14 @@
 
 - 🔭 Estou trabalhando atualmente com Front-end
 - 🌱 Estou estudando Angular e Java
-- 👯 Estou colaborando em um projeto freelancer, elaboração do site de loja especializada em baterias automotivas
-- 🤔 Estou em busca de designers para criação de layouts
+- 🤔 Estou em busca de oportunidades para contribuir e evoluir
 - 💬 Pergunte-me o que quiser
-- ⚡  Fora a programação, adoro games e animes.
+- ⚡  Entusiasta da programação, games e animes.
 
 <div>
   <a href="https://github.com/wesleytj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleytj&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleytj&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleytj&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleytj&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Wess-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
