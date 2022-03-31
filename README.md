@@ -1,12 +1,14 @@
 ### Oi, eu sou Wesley! 👋
 
-- :family_man_woman_boy_boy: Casado e pai de dois filhos
-- :church: Adventista do Sétimo Dia
-- 🌱 Estou estudando Desenvolvimento Web (HTML5, CSS3, JavaScript e React.JS)
+- 🎂 28 aniversários (22/01)
+- 🏡 São Leopoldo - RS
+- 👨‍👩‍👦‍👦 Casado e pai de dois filhos (4 anos e 8 meses)
+- ⛪ Adventista do Sétimo Dia
+- 🌱 Estou estudando Front-end (HTML5, CSS3, JavaScript e React.JS)
 - 🤔 Estou em busca de oportunidades para contribuir e evoluir
 - 💬 Pergunte-me o que quiser
 - ⚡ Entusiasta da programação, games e animes.
-- ⚽ Amo jogar futebol ❤️
+- ❤️ Jogar futebol ⚽
 
 <div>
   <a href="https://github.com/wesleytj">
