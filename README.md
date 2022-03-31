@@ -4,11 +4,12 @@
 - 🏡 São Leopoldo - RS
 - 👨‍👩‍👦‍👦 Casado e pai de dois filhos (4 anos e 8 meses)
 - ⛪ Adventista do Sétimo Dia
-- 🌱 Estou estudando Front-end (HTML5, CSS3, JavaScript e React.JS)
+- 📚 Estou estudando Front-end (HTML5, CSS3, JavaScript e React.JS)
 - 🤔 Estou em busca de oportunidades para contribuir e evoluir
 - 💬 Pergunte-me o que quiser
 - ⚡ Entusiasta da programação, games e animes.
 - ❤️ Jogar futebol ⚽
+- 🌱 Fazer o bem, sem olhar a quem.
 
 <div>
   <a href="https://github.com/wesleytj">
