@@ -2,11 +2,11 @@
 
 - :family_man_woman_boy_boy: Casado e pai de dois filhos
 - :church: Adventista do Sétimo Dia
-- 🔭 Estou trabalhando atualmente como Desenvolvedor Front-end Freelancer
-- 🌱 Estou estudando Java, Angular e Desenvolvimento Web
+- 🌱 Estou estudando Desenvolvimento Web (HTML5, CSS3, JavaScript e React.JS)
 - 🤔 Estou em busca de oportunidades para contribuir e evoluir
 - 💬 Pergunte-me o que quiser
-- ⚡  Entusiasta da programação, games e animes.
+- ⚡ Entusiasta da programação, games e animes.
+- ⚽ Amo jogar futebol ❤️
 
 <div>
   <a href="https://github.com/wesleytj">
