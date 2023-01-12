@@ -1,5 +1,3 @@
-<img src="https://scontent.fpoa11-2.fna.fbcdn.net/v/t39.30808-6/279634626_101869212524939_3369651534765876304_n.png?_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_ohc=Or_1GuuXkQ8AX-GEfrp&_nc_oc=AQmXCcQQaxx5WeNPmShz33u4id9PjxPOE6I9EWsn2F0ZbdGOXZ5ad88kexoNshrygP6mwHaMiWpRfOlFPIL-mllb&_nc_ht=scontent.fpoa11-2.fna&oh=00_AT-1De6qdAmcdjy4XnKRT5INa0o-YDkgW-ZONCWxf16QLw&oe=629D7B2B"  width="40%" />
-
 ### Oi, eu sou Wesley! 👋
 
 - ⛪ Adventista do Sétimo Dia
@@ -13,11 +11,6 @@
 - ❤️ Jogar futebol ⚽
 - 🌱 Fazer o bem, sem olhar a quem.
 
-<div>
-  <a href="https://github.com/wesleytj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleytj&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleytj&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Wess-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wess-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
