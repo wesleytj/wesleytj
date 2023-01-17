@@ -1,29 +1,37 @@
-### Oi, eu sou Wesley! 👋
+<h2 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Oi, eu sou Wesley!</h2>
 
-- ⛪ Adventista do Sétimo Dia
-- 👨‍👩‍👦‍👦 Casado e pai de dois filhos
-- 🎂 28 aniversários
-- 🏡 São Leopoldo - RS
-- 📚 Desenvolvedor Front-end
-- 🤔 Estou em busca de oportunidades para contribuir e evoluir
-- 💬 Pergunte-me o que quiser
-- ⚡ Entusiasta da programação, games e animes.
-- ❤️ Jogar futebol ⚽
-- 🌱 Fazer o bem, sem olhar a quem.
+**Desenvolvedor Front-end Jr.**
+<img align="right" src="https://komarev.com/ghpvc/?username=wesleytj&color=yellow" alt="Profile views" />
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Wess-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Wess-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Wess-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="Wess-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" alt="Wess-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Wess-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />  
-</div>
-  
-##
-  
- <div>   
-  <a href="https://www.linkedin.com/in/wesley-jacques" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://api.whatsapp.com/send?phone=5551995291593&text=Opa%2C%20como%20posso%20ajudar%3F"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>                    
-  <a href="mailto:wesleyjacques@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
- </div> 
+<br/>
+
+<h3>Sobre</h3>
+
+- <h5>⛪ Adventista do Sétimo Dia</h5>
+- <h5>👨‍👩‍👦‍👦 Casado e pai de dois filhos</h5>
+- <h5>🎂 28 aniversários</h5>
+- <h5>🏡 São Leopoldo - RS</h5>
+- <h5>🤔 Estou em busca de oportunidades para contribuir e evoluir</h5>
+- <h5>⚡ Entusiasta da programação, games e animes.</h5>
+- <h5>❤️ Jogar futebol ⚽</h5>
+- <h5>🌱 Fazer o bem, sem olhar a quem.</h5>
+
+<br/>
+
+## Skills
+<a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
+      alt="html5"/> 
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
+      alt="css3"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
+      alt="javascript"/> 
+</a>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
