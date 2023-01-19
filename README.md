@@ -1,3 +1,18 @@
+```JavaScript
+function getInTouch(){
+    const name = "Wesley Treib Jacques"; 
+    var title = "Desenvolvedor Front-end Jr."; 
+    var phone = "(51) 9 9529-1593"; 
+    var email = "wesleyjacques@hotmail.com"; 
+    var about = ['- ⛪ Adventista do Sétimo Dia', '- 👩‍❤️‍💋‍👨 Casado', '- 👨‍👩‍👦‍👦 Pai de dois filhos', '- 🎂 28 aniversários', '- 🏡 São Leopoldo - RS', '- 🤔 Estou em busca de oportunidades para contribuir e evoluir', '- ❤️ Entusiasta da programação, games, animes e futebol', '- 🌱 Fazer o bem, sem olhar a quem']; 
+    var skills = ['HTML5', 'CSS3', 'JavaScript'];
+}
+
+getInTouch();
+```
+
+<br/>
+
 <h2 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Oi, eu sou Wesley!</h2>
 
 **Desenvolvedor Front-end Jr.**
@@ -7,14 +22,14 @@
 
 <h3>Sobre</h3>
 
-- <h5>⛪ Adventista do Sétimo Dia</h5>
-- <h5>👨‍👩‍👦‍👦 Casado e pai de dois filhos</h5>
-- <h5>🎂 28 aniversários</h5>
-- <h5>🏡 São Leopoldo - RS</h5>
-- <h5>🤔 Estou em busca de oportunidades para contribuir e evoluir</h5>
-- <h5>⚡ Entusiasta da programação, games e animes.</h5>
-- <h5>❤️ Jogar futebol ⚽</h5>
-- <h5>🌱 Fazer o bem, sem olhar a quem.</h5>
+- **⛪ Adventista do Sétimo Dia**
+- **👩‍❤️‍💋‍👨 Casado**
+- **👨‍👩‍👦‍👦 Pai de dois filhos**
+- **🎂 28 aniversários**
+- **🏡 São Leopoldo - RS**
+- **🤔 Estou em busca de oportunidades para contribuir e evoluir**
+- **⚡ Entusiasta da programação, games, animes e futebol ⚽**
+- **🌱 Fazer o bem, sem olhar a quem**
 
 <br/>
 
@@ -35,3 +50,5 @@
 <br/><br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+<p align="center">Copyright © Wesley Jacques</p>
