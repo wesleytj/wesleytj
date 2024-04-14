@@ -1,11 +1,11 @@
 ```JavaScript
 function getInTouch(){
     const name = "Wesley Treib Jacques"; 
-    var title = "Desenvolvedor Front-end Jr."; 
-    var phone = "(51) 9 9529-1593"; 
-    var email = "wesleyjacques@hotmail.com"; 
-    var about = ['- ⛪ Adventista do Sétimo Dia', '- 👩‍❤️‍💋‍👨 Casado', '- 👨‍👩‍👦‍👦 Pai de dois filhos', '- 🎂 28 aniversários', '- 🏡 São Leopoldo - RS', '- 🤔 Estou em busca de oportunidades para contribuir e evoluir', '- ❤️ Entusiasta da programação, games, animes e futebol', '- 🌱 Fazer o bem, sem olhar a quem']; 
-    var skills = ['HTML5', 'CSS3', 'JavaScript'];
+    let title = "Desenvolvedor Front-end Jr."; 
+    let phone = "(51) 9 9529-1593"; 
+    let email = "wesleyjacques@hotmail.com"; 
+    let about = ['- ⛪ Adventista do Sétimo Dia', '- 👩‍❤️‍💋‍👨 Casado', '- 👨‍👩‍👦‍👦 Pai de três filhos', '- 🎂 30 aniversários', '- 🏡 São Leopoldo - RS', '- 🤔 Estou em busca de oportunidades para contribuir e evoluir', '- ❤️ Entusiasta da programação, games, animes e futebol', '- 🌱 Fazer o bem, sem olhar a quem']; 
+    let skills = ['HTML5', 'CSS3', 'JavaScript'];
 }
 
 getInTouch();
